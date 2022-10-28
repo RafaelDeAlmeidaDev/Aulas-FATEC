@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="banco_real.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="331.4563"
+     inkscape:cy="249.69708"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2372"
+       transform="translate(5.8465209,-3.8002386)">
+      <path
+         id="rect111"
+         style="fill:#008000;stroke-width:0.28855"
+         d="m 12.517578,15.310547 c 0,30.529297 0,61.058594 0,91.587893 60.705729,0 121.411462,0 182.117192,0 0,-30.705732 0,-61.411461 0,-92.11719 -60.70573,0 -121.411463,0 -182.117192,0 0,0.176432 0,0.352865 0,0.529297 z" />
+      <g
+         id="g1877"
+         transform="translate(-197.43429,9.6171429)"
+         style="stroke:none">
+        <g
+           id="g1870"
+           style="stroke:none">
+          <g
+             id="g1865"
+             style="stroke:none">
+            <g
+               id="g1861"
+               style="stroke:none">
+              <path
+                 sodipodi:type="star"
+                 style="fill:#5dffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+                 id="path538"
+                 inkscape:flatsided="true"
+                 sodipodi:sides="5"
+                 sodipodi:cx="242.69142"
+                 sodipodi:cy="9.0514288"
+                 sodipodi:r1="22.129843"
+                 sodipodi:r2="17.903419"
+                 sodipodi:arg1="0.95797612"
+                 sodipodi:arg2="1.5862947"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="M 255.41999,27.154285 229.40793,26.75111 221.7532,1.8875766 243.03438,-13.075756 263.84161,2.5399286 Z"
+                 inkscape:transform-center-x="-0.10072226"
+                 inkscape:transform-center-y="3.0009894"
+                 transform="matrix(0.95038047,0,0,-1.4914228,4.7804382,68.218521)" />
+            </g>
+          </g>
+        </g>
+        <path
+           id="path972"
+           style="fill:#ff6600;stroke:none;stroke-width:0.264583"
+           inkscape:transform-center-x="-1.3336985"
+           inkscape:transform-center-y="3.090459"
+           transform="matrix(1.8860471,0,0,1.8724897,-267.15905,-14.909057)"
+           d="m 266.5849,54.964445 -0.027,-14.961336 10.76846,2.325872 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g2355">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.3354px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1.61127"
+           x="82.013115"
+           y="48.366341"
+           id="text1706"
+           transform="scale(0.82897705,1.206306)"><tspan
+             sodipodi:role="line"
+             id="tspan1704"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#ececec;stroke:none;stroke-width:1.61127"
+             x="82.013115"
+             y="48.366341">BANCO REAL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.32946px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:-0.0055491px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.277454"
+           x="65.696442"
+           y="64.684525"
+           id="text1984"
+           transform="scale(1.0486475,0.95360929)"><tspan
+             sodipodi:role="line"
+             id="tspan1982"
+             style="stroke-width:0.277454"
+             x="65.696442"
+             y="64.684525"><tspan
+   style="letter-spacing:-0.283004px;stroke-width:0.277454"
+   id="tspan2168">ABN</tspan> <tspan
+   style="letter-spacing:-0.283004px;stroke-width:0.277454"
+   id="tspan2188">AMBRO</tspan> <tspan
+   style="letter-spacing:-0.283004px;stroke-width:0.277454"
+   id="tspan2190">BANK</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
